@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
+
+:root{
+
+/*cores*/
+
+--amarelo: hsl(47, 88%, 63%);
+--branco: hsl(0, 0%, 100%);
+--cinza-500: hsl(0, 0%, 42%);
+--cinza-950: hsl(0, 0%, 7%);
+
+/*fontes*/
+
+ --fonte-1: "Figtree";
+}
+
+body{
+    background-color: var(--amarelo);
+    font-family: var(--fonte-1);
+}
+
+
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+main{
+    background-color: white;
+    max-width: 350px;
+    border: solid 2px black;
+    border-radius: 15px;
+    padding: 17px;
+    box-shadow: 6px 5px 0px 3px black;
+}
+
+section{
+    text-align: center;
+}
+
+.imagem{
+    border-radius: 15px;
+}
+
+.destaque{
+    background-color: var(--amarelo);
+    padding: 6px;
+    border-radius: 6px;
+}
+
+p{
+    font-weight: 500;
+}
+
+strong{
+    color: var(--cinza-950);
+}
+
+strong, h1 {
+    font-weight: 800;
+}
+
+h1:hover{
+    color: var(--amarelo);
+}
+
+.texto{
+    color: var(--cinza-500);
+}
+
+.perfil{
+    width: 30px;
+    vertical-align: middle;
+}
