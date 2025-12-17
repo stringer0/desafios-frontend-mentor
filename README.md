@@ -15,4 +15,4 @@ Aqui compartilho minha evolução no estudo de **HTML, CSS**, aplicando conceito
 ## Desafios
 
 **Desafio 1 – Blog Preview Card**  
-[Acessar projeto](blog-preview-card-main/index.html) 
+[Acessar projeto](https://stringer0.github.io/desafios-frontend-mentor/blog-preview-card-main/) 
