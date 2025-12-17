@@ -21,6 +21,7 @@ body{
 
 
 div{
+    /*div pai para centralizar a caixa do main na horizontal e vertical*/
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,6 +64,7 @@ strong, h1 {
 }
 
 h1:hover{
+    /*quando o mouse passar:*/
     color: var(--amarelo);
 }
 
