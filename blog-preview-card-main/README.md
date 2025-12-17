@@ -36,9 +36,9 @@ O projeto exibe um card contendo:
 
 ## Preview do Projeto
 
-<img src="../../../prints/Captura de Tela (7).png" alt="captura de tela do site">
+![Imagem](../../../prints/Captura%20de%20Tela%20(7).png)
 
 ## preview do projeto em dispositivos moveis
 
-<img src="../../../prints/Captura de tela_17-12-2025_9541_127.0.0.1.jpeg" alt="">
+![imagem](../../../prints/Captura%20de%20tela_17-12-2025_9541_127.0.0.1.jpeg)
 
