@@ -11,3 +11,7 @@ Aqui compartilho minha evolução no estudo de **HTML, CSS**, aplicando conceito
 - Projetos focados em **layout, responsividade e semântica**
 - Códigos organizados e comentados
 - Evolução contínua como desenvolvedor front-end
+
+## Desafios
+
+**desafio 1**  <a href="desafios-frontend-mentor/blog-preview-card-main/index.html">Blog Preview</a> 
