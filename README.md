@@ -14,4 +14,5 @@ Aqui compartilho minha evolução no estudo de **HTML, CSS**, aplicando conceito
 
 ## Desafios
 
-**desafio 1**  <a href="desafios-frontend-mentor/blog-preview-card-main/index.html">Blog Preview</a> 
+**Desafio 1 – Blog Preview Card**  
+[Acessar projeto](blog-preview-card-main/index.html) 
