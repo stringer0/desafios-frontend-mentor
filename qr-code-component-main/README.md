@@ -12,6 +12,8 @@ Este é um projeto do desafio **QR Code Component** do [Frontend Mentor](https:/
 
 ![Preview do projeto](design/desktop-design.jpg)
 
+- desing mobile do projeto
+
 ![Preview do projeto](design/mobile-design.jpg)
 
 
