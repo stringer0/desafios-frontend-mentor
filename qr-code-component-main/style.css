@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
 
+
+/*nesse projeto procurei usar medidas focadas em % como o EM, REM e % para melhor acessibilidade em diferentes tipos de tela*/
+
 :root{
 
     /*cores*/
@@ -20,6 +23,7 @@ body{
     font-size: 15px;
 }
 
+/*centraliza os elementos no meio da tela*/
 
 div{
     height: 100vh;
@@ -27,6 +31,8 @@ div{
     align-items: center;
     justify-content: center;
 }
+
+/*define o tamanho maximo de main e alinha o texto ao meio, alem de transformar o fundo em branco*/
 
 main{
     max-width: 20em;
@@ -40,6 +46,8 @@ img{
     margin: 0;
     width: 100%;
 }
+
+/*aqui como teria que deixar tanto main quanto a imagem com o mesmo border-radius tentei facilitar futuras atualizações*/
 
 img, main{
     border-radius: 1em;
