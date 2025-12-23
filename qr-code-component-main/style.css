@@ -36,6 +36,7 @@ div{
 
 main{
     max-width: 20em;
+    max-height: 35em;
     background-color: white;
     text-align: center;
     margin: 0em;
