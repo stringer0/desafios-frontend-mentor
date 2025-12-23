@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+:root{
+
+    /*cores*/
+
+    --ardosia-300: hsl(212, 45%, 89%);
+    --ardosia-500: hsl(216, 15%, 48%);
+    --ardosia-900: hsl(218, 44%, 22%);
+
+    /*fontes*/
+
+    --fonte: "Outfit", sans-serif;
+
+}
+
+body{
+    background-color: var(--ardosia-300);
+    font-family: var(--fonte);
+    font-size: 15px;
+}
+
+
+div{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+main{
+    max-width: 20em;
+    background-color: white;
+    text-align: center;
+    margin: 0em;
+    padding: 1em;
+}
+
+img{
+    margin: 0;
+    width: 100%;
+}
+
+img, main{
+    border-radius: 1em;
+}
+
+h1{
+    color: var(--ardosia-900);
+    font-weight: 700;
+}
+
+p{
+    color: var(--ardosia-500);
+    font-weight: 400;
+}
