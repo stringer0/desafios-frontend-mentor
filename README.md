@@ -15,7 +15,9 @@ Aqui compartilho minha evolução no estudo de **HTML, CSS**, aplicando conceito
 ## Desafios
 
 **Desafio 1 – Blog Preview Card**  
+<br>
 [Acessar projeto](https://stringer0.github.io/desafios-frontend-mentor/blog-preview-card-main/)
 
 **desafio 2 - componente QR-code**
+<br>
 [acessar projeto](https://stringer0.github.io/desafios-frontend-mentor/qr-code-component-main)
