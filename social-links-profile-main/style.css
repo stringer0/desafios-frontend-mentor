@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+:root{
+
+/*cores*/
+
+--Green: hsl(75, 94%, 57%);
+--White: hsl(0, 0%, 100%);
+--Grey-700: hsl(0, 0%, 20%);
+--Grey-800: hsl(0, 0%, 12%);
+--Grey-900: hsl(0, 0%, 8%);
+
+/*fontes*/
+
+--font: "Inter", sans-serif;
+
+}
+
+body{
+    background-color: var(--Grey-900);
+    color: var(--White);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: var(--font);
+}
+
+main{
+    max-width: 375px;
+    background-color: var(--Grey-800);
+    text-align: center;
+    border-radius: 7px;  
+    padding: 20px;  
+}
+
+img{
+    width: 200px;
+    margin: 5px;
+}
+
+h1{
+    margin: 1px;
+}
+
+.normal{
+    margin: 27px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+a:hover{
+    color: black;
+}
+
+.link{
+    background-color: var(--Grey-700);
+    padding: 10px;
+    border-radius: 7px;
+    transition: 0.2s;
+}
+
+.link:hover{
+    background-color: var(--Green);
+    color: black;
+}
+
+.endereco{
+    color: var(--Green);
+}
