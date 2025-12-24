@@ -1,14 +1,18 @@
 Social Links Profile
 
-Este projeto é uma solução para o desafio Social Links Profile do Frontend Mentor.
+Esta é uma solução para o desafio Social Links Profile do Frontend Mentor.
 
-👉 Tomei a liberdade de traduzir o desafio e os textos para o português, adaptando o conteúdo para minha língua nativa, mantendo fielmente o layout e os requisitos propostos.
+👉 Tomei a liberdade de traduzir os textos do desafio para o português, adaptando o conteúdo para minha língua nativa, mantendo fielmente o layout e os requisitos propostos.
 
-📸 Preview do Projeto
+🔗 Links
 
-(adicione aqui um print da tela do projeto)
+🌍 Projeto ao vivo:
+https://stringer0.github.io/desafios-frontend-mentor/social-links-profile-main/
 
-🚀 Tecnologias Utilizadas
+💻 Repositório:
+https://github.com/stringer0/desafios-frontend-mentor
+
+🚀 Tecnologias utilizadas
 
 HTML5
 
@@ -20,39 +24,33 @@ CSS Variables
 
 Google Fonts (Inter)
 
-🎯 Objetivo do Desafio
+🎯 O desafio
 
-Criar um card de perfil com links para redes sociais, focando em:
+O objetivo deste desafio foi construir um card de perfil com links para redes sociais, focando em:
 
 Estrutura semântica em HTML
 
 Estilização com CSS
 
-Responsividade
+Layout centralizado
 
 Estados de hover nos links
 
+Design responsivo
+
 🧠 O que eu aprendi
 
-Com este projeto, pratiquei e aprendi:
+Durante o desenvolvimento deste projeto, pratiquei:
 
-Organização de layout utilizando Flexbox
+Centralização de layout com Flexbox
 
-Uso de variáveis CSS para cores e fontes
+Uso de variáveis CSS para padronização de cores
 
-Centralização vertical e horizontal da página
+Criação de botões interativos com :hover
 
-Criação de botões interativos com hover
+Organização e limpeza do código HTML e CSS
 
-Estruturação de um layout simples e limpo
-
-🌍 Acessar o Projeto
-
-🔗 Visualizar projeto online:
-
-
-💻 Repositório:
-
+Boas práticas de estruturação front-end
 
 👤 Autor
 
@@ -66,4 +64,4 @@ Frontend Mentor: https://www.frontendmentor.io/profile/stringer0
 📌 Observações
 
 Este projeto faz parte do meu processo de aprendizado em desenvolvimento front-end.
-Sugestões e feedbacks são sempre bem-vindos! 🚀
+Feedbacks e sugestões são sempre bem-vindos! 🚀
